@@ -1,0 +1,17 @@
+{
+  "name": "sherry-bella",
+  "version": "1.0.0",
+  "description": "sherry training",
+  "main": "gulpfile.js",
+  "author": "Carrero",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp"
+  },
+"devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  },
+  "private": true
+}

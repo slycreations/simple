@@ -1,0 +1,7 @@
+*.log
+node_modules/
+.npm
+.yarn-integrity
+.cache
+dist
+*.lock
