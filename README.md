@@ -11,5 +11,8 @@ To use this template, your computer needs:
 
 ## To Install
 - [Create your repo from this template](https://github.com/slycreations/simple/generate)
+- Clone and install your new repo locally.
+- Run `gulp` (or `yarn start`) to start up localhost and watch your files.
+- The repo is initially set up so that the development site is the folder called `pages`, and a sample css file is included.
 - Do your own thing from that point on. 
-- The repo is initially set up so that the development site is the folder called `pages` -- simply update files in that folder to view them in the browser, and create the subfolders you need. A sample css file is included.
+- This is for development only, any steps to create production ready, minified, uglified code should be done outside of this repo.
