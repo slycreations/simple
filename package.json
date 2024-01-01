@@ -9,7 +9,7 @@
     "start": "gulp"
   },
 "devDependencies": {
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^3.0.2",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0"
   },
